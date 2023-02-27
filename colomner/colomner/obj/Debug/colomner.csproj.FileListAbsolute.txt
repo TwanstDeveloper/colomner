@@ -1,0 +1,7 @@
+C:\Users\sha pc\source\repos\colomner\colomner\bin\Debug\colomner.exe.config
+C:\Users\sha pc\source\repos\colomner\colomner\bin\Debug\colomner.exe
+C:\Users\sha pc\source\repos\colomner\colomner\bin\Debug\colomner.pdb
+C:\Users\sha pc\source\repos\colomner\colomner\obj\Debug\colomner.csproj.AssemblyReference.cache
+C:\Users\sha pc\source\repos\colomner\colomner\obj\Debug\colomner.csproj.CoreCompileInputs.cache
+C:\Users\sha pc\source\repos\colomner\colomner\obj\Debug\colomner.exe
+C:\Users\sha pc\source\repos\colomner\colomner\obj\Debug\colomner.pdb
